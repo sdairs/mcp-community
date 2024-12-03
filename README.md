@@ -15,7 +15,7 @@ Open a PR to add your project to this list!
 
 ## MCP Servers
 
-- [Tinybird](https://github.com/tinybirdco/tinybird_mcp_claude) - Tinybird integration
+- [Tinybird](https://github.com/tinybirdco/mcp-tinybird) - Tinybird integration
 - [ClaudeKeep MCP Server](https://github.com/sdairs/claudekeep/tree/main/apps/mcp) - ClaudeKeep integration
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) - Fetch YouTube subtitles and transcripts for AI analysis
