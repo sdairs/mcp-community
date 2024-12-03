@@ -39,6 +39,7 @@ Open a PR to add your project to this list!
 ## MCP Projects
 
 - [ClaudeKeep](https://github.com/sdairs/claudekeep)
+- [MCP Get](https://mcp-get.com/)
 
 ## License
 
