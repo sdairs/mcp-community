@@ -35,6 +35,7 @@ Open a PR to add your project to this list!
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) - Notion API integration
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) - Multi-vendor AI API integration
+- [minima](https://github.com/dmayboroda/minima)
 
 ## MCP Projects
 
